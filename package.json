@@ -1,0 +1,32 @@
+{
+  "name": "@hhxjs/cli",
+  "version": "1.0.1",
+  "author": "tyde#8696",
+  "license": "ISC",
+  "bin": {
+    "hhx": "cli.js"
+  },
+  "dependencies": {
+    "@hhxjs/compiler": "^1.0.3",
+    "chalk": "^4.1.0",
+    "ora": "^4.0.4",
+    "yargs": "^15.3.1"
+  },
+  "description": "A simple CLI to help you with HHX development, integrated with [@hhxjs/compiler](https://www.npmjs.com/package/@hhxjs/compiler)",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/haxballheadless-x/cli.git"
+  },
+  "keywords": [
+    "cli",
+    "haxball",
+    "haxball",
+    "headless",
+    "hhx",
+    "hhxjs"
+  ],
+  "bugs": {
+    "url": "https://github.com/haxballheadless-x/cli/issues"
+  },
+  "homepage": "https://github.com/haxballheadless-x/cli#readme"
+}
